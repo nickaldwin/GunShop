@@ -1,2 +1,2 @@
-# GunShop
+GunShop
 A gunshop store
