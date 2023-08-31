@@ -1,2 +1,2 @@
 GunShop
-A gunshop store
+A mvc full-stack gunshop store
